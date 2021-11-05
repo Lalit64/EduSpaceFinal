@@ -192,21 +192,18 @@ Use this space to list resources you find helpful and would like to give credit 
 to kick things off!
 
 <div style="display: flex;" >
+  <div style="margin: 1rem;">
 
-  <box>
+[Manit Kohly](https://github.com/DopeWebIllustrator)
 
-    [Manit Kohly](https://github.com/DopeWebIllustrator)
+<img src="https://avatars.githubusercontent.com/u/88322175?v=4" alt="Manit" width="100"/>
+  </div>
+  <div style="margin: 1rem;">
 
-    <img src="https://avatars.githubusercontent.com/u/88322175?v=4" alt="Manit" width="100"/>
-  </box>
-  
-  <box>
+[Ian Cheng](https://github.com/Ian4634)
 
-    [Ian Cheng](https://github.com/Ian4634)
-  
-    <img src="https://avatars.githubusercontent.com/u/78289187?v=4" alt="Ian" width="100"/>
-
-  </box>
+<img src="https://avatars.githubusercontent.com/u/78289187?v=4" alt="Ian" width="100"/>
+  </div>
 
 </div>
 
