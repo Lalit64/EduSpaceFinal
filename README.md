@@ -191,12 +191,23 @@ Project Link: [https://github.com/Lalit64/EduSpaceFinal](https://github.com/Lali
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites
 to kick things off!
 
-[Manit Kohly](https://github.com/DopeWebIllustrator)
+<div style="display: flex;" >
 
-![Product Name Screen Shot](https://avatars.githubusercontent.com/u/88322175?v=4)
+  <box>
 
-[Ian Cheng](https://github.com/Ian4634)
+    [Manit Kohly](https://github.com/DopeWebIllustrator)
 
-![Product Name Screen Shot](https://avatars.githubusercontent.com/u/78289187?v=4)
+    <img src="https://avatars.githubusercontent.com/u/88322175?v=4" alt="Manit" width="100"/>
+  </box>
+  
+  <box>
+
+    [Ian Cheng](https://github.com/Ian4634)
+  
+    <img src="https://avatars.githubusercontent.com/u/78289187?v=4" alt="Ian" width="100"/>
+
+  </box>
+
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
