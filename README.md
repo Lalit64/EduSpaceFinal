@@ -192,13 +192,13 @@ Use this space to list resources you find helpful and would like to give credit 
 to kick things off!
 
 <div style="display: flex;" >
-  <div style="margin: 1rem;">
+  <div style="margin: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column;">
 
 [Manit Kohly](https://github.com/DopeWebIllustrator)
 
 <img src="https://avatars.githubusercontent.com/u/88322175?v=4" style="border-radius: 100%;" alt="Manit" width="100"/>
   </div>
-  <div style="margin: 1rem;">
+  <div style="margin: 1rem; display: flex; align-items: center; justify-content: center; flex-direction: column;">
 
 [Ian Cheng](https://github.com/Ian4634)
 
