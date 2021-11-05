@@ -196,13 +196,13 @@ to kick things off!
 
 [Manit Kohly](https://github.com/DopeWebIllustrator)
 
-<img src="https://avatars.githubusercontent.com/u/88322175?v=4" alt="Manit" width="100"/>
+<img src="https://avatars.githubusercontent.com/u/88322175?v=4" style="border-radius: 100%;" alt="Manit" width="100"/>
   </div>
   <div style="margin: 1rem;">
 
 [Ian Cheng](https://github.com/Ian4634)
 
-<img src="https://avatars.githubusercontent.com/u/78289187?v=4" alt="Ian" width="100"/>
+<img src="https://avatars.githubusercontent.com/u/78289187?v=4" style="border-radius: 100%;" alt="Ian" width="100"/>
   </div>
 
 </div>
